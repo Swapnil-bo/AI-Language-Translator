@@ -1,6 +1,6 @@
 # 🌐 AI Language Translator
 
-![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.13.12-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Transformers-FFD21E?style=for-the-badge)
 ![Vibe Coding](https://img.shields.io/badge/Day-01-blueviolet?style=for-the-badge&label=100%20Days%20of%20Vibe%20Coding)
@@ -20,15 +20,15 @@ A high-performance, **offline-first** neural machine translation engine. This ap
 ## 🛠️ Tech Stack
 * **Frontend:** Streamlit.
 * **ML Framework:** Hugging Face Transformers & PyTorch.
-* **Translation Engine:** MarianMT (Helsinki-NLP).
-* **Language Support:** BCP-47 Tokenization.
+* **Inference Engine:** MarianMT (Helsinki-NLP).
+* **Python Version:** 3.13.12.
 
 ---
 
 ## 💻 How to Run
 
 ### 1. Prerequisites
-Ensure you have Python installed. It is recommended to use a virtual environment.
+Ensure you have Python 3.13.12 installed. It is recommended to use a virtual environment.
 
 ### 2. Installation
 Clone the repository and install the dependencies from the `requirements.txt` file:
